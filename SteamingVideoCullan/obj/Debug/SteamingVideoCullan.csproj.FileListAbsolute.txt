@@ -1,0 +1,9 @@
+c:\users\culla\documents\visual studio 2015\Projects\SteamingVideoCullan\SteamingVideoCullan\bin\Debug\SteamingVideoCullan.exe.config
+c:\users\culla\documents\visual studio 2015\Projects\SteamingVideoCullan\SteamingVideoCullan\obj\Debug\SteamingVideoCullan.csprojResolveAssemblyReference.cache
+c:\users\culla\documents\visual studio 2015\Projects\SteamingVideoCullan\SteamingVideoCullan\obj\Debug\SteamingVideoCullan.Properties.Resources.resources
+c:\users\culla\documents\visual studio 2015\Projects\SteamingVideoCullan\SteamingVideoCullan\obj\Debug\SteamingVideoCullan.View.resources
+c:\users\culla\documents\visual studio 2015\Projects\SteamingVideoCullan\SteamingVideoCullan\obj\Debug\SteamingVideoCullan.csproj.GenerateResource.Cache
+c:\users\culla\documents\visual studio 2015\Projects\SteamingVideoCullan\SteamingVideoCullan\bin\Debug\SteamingVideoCullan.exe
+c:\users\culla\documents\visual studio 2015\Projects\SteamingVideoCullan\SteamingVideoCullan\bin\Debug\SteamingVideoCullan.pdb
+c:\users\culla\documents\visual studio 2015\Projects\SteamingVideoCullan\SteamingVideoCullan\obj\Debug\SteamingVideoCullan.exe
+c:\users\culla\documents\visual studio 2015\Projects\SteamingVideoCullan\SteamingVideoCullan\obj\Debug\SteamingVideoCullan.pdb
